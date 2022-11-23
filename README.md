@@ -19,8 +19,12 @@ Title elements contain a concise, descriptive title
 
 ## What I've done in order to complete the challenge:
 
-#1 - Fixed href for css style document
-#2 - Added correct path to link images from HTML to Css
-#3 - Added alt description for each image link
-#4 - Git add, git commit and git push for each step I've fixed
-#5 - Final deployment, Repository and Url share in order to complete the challenge.
+Fixed href for css style document
+
+Added correct path to link images from HTML to Css
+
+Added alt description for each image link
+
+Git add, git commit and git push for each step I've fixed
+
+Final deployment, Repository and Url share in order to complete the challenge.
