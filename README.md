@@ -1,4 +1,4 @@
-# BOOTCAMP - CHALLENGE 1
+# Bootcamp - Challenge 1
 ## User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
