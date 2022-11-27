@@ -33,4 +33,4 @@ Final deployment, Repository and Url share in order to complete the challenge.
 
 URL - https://francostroff.github.io/bootcamp-challenge1/
 
-GitHub Repository - 
+GitHub Repository - https://github.com/francostroff/bootcamp-challenge1
