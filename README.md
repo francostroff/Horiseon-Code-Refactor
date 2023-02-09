@@ -7,26 +7,16 @@ AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-## Acceptance Criteria
-Your website must meet accessibility standards. You can achieve this completing the following:
-
-Semantic HTML elements can be found throughout the source code
-
-HTML elements follow a logical structure independent of styling and positioning
-
-Image and icon elements contain accessible alt attributes
-
-Heading attributes fall in sequential order
-
-Title elements contain a concise, descriptive title
 
 ## What I've done in order to complete the challenge:
 
-Fixed href for css style document
+Fixed href for CSS style document
 
-Added correct path to link images from HTML to Css
+Fixed path to link images from HTML to CSS
 
 Added alt description for each image link
+
+Added semantic elements in html
 
 Git add, git commit and git push for each step I've fixed
 
