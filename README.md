@@ -34,3 +34,5 @@ Final deployment, Repository and Url share in order to complete the challenge.
 URL - https://francostroff.github.io/Horiseon-Code-Refactor/
 
 GitHub Repository - https://github.com/francostroff/Horiseon-Code-Refactor
+
+(Assets/images/01-html-css-git-challenge-demo.png)
