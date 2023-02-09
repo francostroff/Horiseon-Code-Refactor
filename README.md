@@ -31,6 +31,6 @@ Final deployment, Repository and Url share in order to complete the challenge.
 
 ## Links
 
-URL - https://francostroff.github.io/bootcamp-challenge1/
+URL - https://francostroff.github.io/Horiseon-Code-Refactor/
 
-GitHub Repository - https://github.com/francostroff/bootcamp-challenge1
+GitHub Repository - https://github.com/francostroff/Horiseon-Code-Refactor
