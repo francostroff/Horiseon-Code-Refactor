@@ -40,4 +40,4 @@ GitHub Repository - https://github.com/francostroff/Horiseon-Code-Refactor
 
 The following image shows the web application's appearance and functionality:
 
-(./images/01-html-css-git-challenge-demo.png)
+(./Assets/images/01-html-css-git-challenge-demo.png)
