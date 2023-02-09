@@ -35,4 +35,9 @@ URL - https://francostroff.github.io/Horiseon-Code-Refactor/
 
 GitHub Repository - https://github.com/francostroff/Horiseon-Code-Refactor
 
+
+### Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
 (Assets/images/01-html-css-git-challenge-demo.png)
