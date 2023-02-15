@@ -15,7 +15,7 @@ Fixed href for CSS style document
 Fixed path to link images from HTML to CSS
 
 Added alt description for each image link
-
+s
 Added semantic elements in html
 
 Git add, git commit and git push for each step I've fixed
