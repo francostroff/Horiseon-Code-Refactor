@@ -36,18 +36,19 @@ html {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
-}
 
-.header div ul li {
+
+nav {
     display: inline-block;
-    margin-left: 25px;
+    font-size: 20px;
+    margin: 20px;
+ 
 }
 
 a {
     color: #ffffff;
     text-decoration: none;
+    margin-inline: 20px;
 }
 
 p {
