@@ -7,11 +7,12 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* scroll smooth */
 html {
     scroll-behavior: smooth;
   }
 
+  /* header div */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -19,6 +20,7 @@ html {
     color: #ffffff;
 }
 
+/* header text */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -27,6 +29,7 @@ html {
 .header h1 .seo {
     color: #d9dcd6;
 }
+
 
 .header div {
     padding-top: 15px;
@@ -37,7 +40,7 @@ html {
 }
 
 
-
+/* navbar */
 nav {
     display: inline-block;
     font-size: 20px;
@@ -55,6 +58,7 @@ p {
     font-size: 16px;
 }
 
+/* hero */
 .hero {
     height: 800px;
     width: 100%;
@@ -192,15 +196,13 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.footer {
+ /* footer */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    font-size: 20px;
     
 }
 
-.footer h2 {
-    font-size: 20px;
-}
